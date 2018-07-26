@@ -1,5 +1,5 @@
-bind = '0.0.0.0:8080'
-pythonpath = '/home/box/web'
+bind = '0.0.0.0:8000'
+pythonpath = '/mnt/d/Programs-PartII/Stepik.org/Web-technology/web-project-stepik/etc'
 
 def app(environ, start_response):
     result = ""
